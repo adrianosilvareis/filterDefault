@@ -1,0 +1,17 @@
+{
+  "name": "filterDefault",
+  "authors": [
+    "Adriano Reis <adriano_silvareis@hotmail.com>"
+  ],
+  "description": "Filtros de transformação para aplicação angular",
+  "main": "filter.module.js",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
